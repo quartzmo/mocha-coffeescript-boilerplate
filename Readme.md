@@ -1,6 +1,6 @@
 # Mocha CoffeeScript Boilerplate
 
-A minimalistic boilerplate for a CoffeeScript project that is tested with [visionmedia/mocha](http://visionmedia.github.com/mocha).
+A minimalistic boilerplate for a CoffeeScript project that is tested with [visionmedia/mocha](https://mochajs.org/).
 Requires Node.js to run unit tests.
 
 For a more extensive demo of Mocha's featureset, take a look at [ryu22e/mocha-example](https://github.com/ryu22e/mocha-example).
